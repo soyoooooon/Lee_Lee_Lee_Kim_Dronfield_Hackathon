@@ -1,0 +1,24 @@
+{
+  "name": "Dronfield_Kim_LeeX3_Hackathon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soyoooooon/Dronfield_Kim_LeeX3_Hackathon.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soyoooooon/Dronfield_Kim_LeeX3_Hackathon/issues"
+  },
+  "homepage": "https://github.com/soyoooooon/Dronfield_Kim_LeeX3_Hackathon#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "hbs": "^4.0.5"
+  }
+}
