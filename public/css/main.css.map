@@ -1,7 +1,0 @@
-{
-"version": 3,
-"mappings": "AAGA,KACA,CAAC,gBAAgB,CCFP,OAAO,CDGhB,KAAK,CAAE,IAAI,CAAE,MAAM,CAAE,IAAI",
-"sources": ["../../sass/main.scss","../../sass/_vars.scss"],
-"names": [],
-"file": "main.css"
-}
