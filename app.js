@@ -10,9 +10,9 @@ app.set('view engine','hbs');
 app.set('views', path.join( __dirname + "/views"));
 
 
-// app.get('/', (req, res) => {
-//     res.render('layout', { test: "Hello!"})
-// })
+app.get('/', (req, res) => {
+    res.send('hello world!');
+})
 
 app.listen(port, () => {
     console.log(`app is running on ${port}`);
